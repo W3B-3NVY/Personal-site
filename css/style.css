@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 110px;
+  font-weight: bold;
+  line-height: 1;
+  margin: 20px auto 0 auto;
+  width: 30%;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 2;
+  margin: 0;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.hello {
+  padding-top: 30px;
+  font-size: 60px;
+}
+
+.hello2 {
+  font-size: 60px;
+}
+
+#hello1 {
+  margin:0 auto;
+  width:50%;
+  line-height:2;
+  padding: 0 0 50px;
+}
+
+#hello2 {
+  padding: 0 0 50px;
+}
+
+#pp{
+  padding-bottom:30px;
+}
+
+#music{
+  padding-bottom:30px; 
+}
+
+hr {
+  border: dotted grey 10px;
+  border-top: none;
+  width: 10%;
+}
+
+a{color:#f8f7de;
+  margin:20px 10px;
+  text-decoration:none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover{
+  color:black;
+}
+
+.footer-link{
+  margin-top:60px;
+}
+
+.span {
+  text-decoration: underline;
+}
+
+.profile1 {
+  margin-top: 50px;
+  border-radius: 100%;
+  background-color: #E4F9F6;
+}
+
+.photo2 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.btn {
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 30px;
+  background: #3498db;
+  padding: 11px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f06e6e;
+  text-decoration: none;
+}
+
+.top-container {
+  background-color: #E4F9F6;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom:-40px;
+}
+
+.middle-container {
+  background-color: #f8f7de;
+  padding-bottom:40px;
+}
+
+.bottom-container {
+  padding-top:30px;
+  padding-bottom:30px;
+  background-color: #66BFBF;
+}
+
+.cld1 {
+  position: absolute;
+  top: 50px;
+  right: 400px;
+}
+
+.cld2 {
+  position: absolute;
+  left: 400px;
+  top: 50px;
+}
+
+.mountain {
+  width: 40%;
+}
