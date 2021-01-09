@@ -3,4 +3,4 @@
 as same as personal site of SEAN HALPIN
 through Angela Yu WB 2020
 
-BY : PARAS DHIMAN (W3B-3NVY)
+BY : Shashi Ratan Kumar Singh (W3B-3NVY)
